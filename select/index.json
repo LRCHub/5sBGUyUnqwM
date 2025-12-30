@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オール・ナイト・ロング",
+  "base_artist": "Lionel Richie",
+  "createdAt": "2025-12-30T02:12:32.125903Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Night Long (All Night)",
+      "artist": "Lionel Richie",
+      "has_synced": false,
+      "path": "select/pl_01_All_Night_Long_(All_Night)_Lionel_Richie.txt"
+    }
+  ]
+}
